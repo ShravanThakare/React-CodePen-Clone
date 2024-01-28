@@ -2,7 +2,7 @@
 
 A simple CodePen clone built with React and Tailwind CSS.
 
-![Project Screenshot](url-to-your-project-screenshot.jpg)
+![Project Screenshot]((https://github.com/ShravanThakare/React-CodePen-Clone/assets/108409480/07a57318-0967-47f0-b7d4-391c99af5824)
 
 ## **Overview**
 
@@ -34,19 +34,12 @@ This project is a lightweight CodePen alternative created using React for the fr
 
 - React
 - Tailwind CSS
-- Other dependencies (list them here)
 
 ## **Deployment**
 
-This project is deployed on Netlify. You can access it [here](your-netlify-project-link).
+This project is deployed on Netlify. You can access it [here](https://shravancodepencloneproject.netlify.app/).
 
-## **Contributing**
 
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## **Acknowledgments**
 
