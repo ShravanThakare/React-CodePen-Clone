@@ -26,7 +26,7 @@ This project is a lightweight CodePen alternative created using React for the fr
 
 ## **Project Screenshot**
 
-![Project Screenshot](url-to-your-project-screenshot.jpg)
+![Project Screenshot](https://github.com/ShravanThakare/React-CodePen-Clone/assets/108409480/07a57318-0967-47f0-b7d4-391c99af5824.jpg)
 
 ## **Dependencies**
 
